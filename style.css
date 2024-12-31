@@ -1,0 +1,78 @@
+.box{
+   text-align: center;
+}
+
+.bk-grey{
+    background-color: lightgrey;
+    height: 130px;
+    text-align: center;
+}
+
+.search{
+    background-color: white;
+    width: 500px;
+    
+}
+.btn1{
+    margin-right: 2%;
+}
+
+.btn2{
+    margin-left: 2% ;
+}
+
+
+.box1{
+    
+    text-align: center;
+    
+    height: 70px;
+    
+    margin: 10px;
+    border-radius: 20px;  
+    
+}
+
+.card{
+    float: left;
+    width: 15%;
+    padding: 5%;
+    margin-right: 3%;
+    text-align: center;
+    
+
+}
+.card2{
+    float: right;
+}
+.card3{
+    float: left;
+}
+
+.card4{
+    text-align: center;
+}
+
+
+    
+    
+
+.bk-pink{
+    background-color: pink;
+    
+}
+.bk-green{
+    background-color: greenyellow;
+}
+
+.box-special{
+    background-color: white;
+    width: 200px;
+}
+
+
+    
+
+
+
+
